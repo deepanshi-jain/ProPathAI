@@ -1,0 +1,29 @@
+.chat-box {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 15px;
+    max-height: 70vh;
+    overflow-y: auto;
+}
+.user-msg {
+    background-color: #DCF8C6;
+    padding: 10px 15px;
+    border-radius: 10px;
+    max-width: 70%;
+    margin-bottom: 10px;
+    align-self: flex-end;
+    text-align: right;
+}
+.ai-msg {
+    background-color: #E3E3E3;
+    padding: 10px 15px;
+    border-radius: 10px;
+    max-width: 70%;
+    margin-bottom: 10px;
+    align-self: flex-start;
+    text-align: left;
+}
+.msg-container {
+    display: flex;
+    flex-direction: column;
+}

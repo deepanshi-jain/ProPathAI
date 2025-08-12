@@ -1,0 +1,13 @@
+streamlit
+openai
+python-dotenv
+PyMuPDF
+faiss-cpu
+langchain>=0.1.0
+langchain-openai>=0.1.0
+openai>=1.0.0
+tiktoken>=0.5.1
+pyttsx3 
+fpdf
+streamlit-lottie 
+requests

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "job_description",
+    "title": "Data Analyst",
+    "company": "Tech Corp",
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Statistical Analysis",
+      "Data Visualization"
+    ],
+    "experience_level": "Mid-level"
+  },
+  {
+    "type": "job_description",
+    "title": "Machine Learning Engineer",
+    "company": "AI Startup",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "AWS",
+      "MLOps",
+      "Docker"
+    ],
+    "experience_level": "Senior"
+  },
+  {
+    "type": "job_description",
+    "title": "Backend Software Engineer",
+    "company": "FinTech Inc",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Docker",
+      "Microservices"
+    ],
+    "experience_level": "Mid-level"
+  },
+  {
+    "type": "resume_example",
+    "title": "Data Analyst Resume",
+    "experience_years": 3,
+    "skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Statistical Analysis",
+      "A/B Testing"
+    ],
+    "success_rate": "High"
+  },
+  {
+    "type": "resume_example",
+    "title": "ML Engineer Resume",
+    "experience_years": 5,
+    "skills": [
+      "TensorFlow",
+      "PyTorch",
+      "AWS",
+      "MLOps",
+      "Docker",
+      "Python"
+    ],
+    "success_rate": "High"
+  }
+]

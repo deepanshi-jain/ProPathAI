@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF6F61"         # Coral / Button color
+backgroundColor = "#FDF6F0"      # App background (light peach)
+secondaryBackgroundColor = "#FCE8D5"  # Sidebar and cards
+textColor = "#1F1F1F"            # Text color
+font = "sans serif"
