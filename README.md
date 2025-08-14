@@ -68,9 +68,57 @@ It combines **Resume Analyzer, Career Chatbot, AI Resume Enhancer, Career Timeli
 
 ## 📦 Installation
 
-1️⃣ **Clone the Repository**
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/ProPathAI.git
 cd ProPathAI
+```
 
+### 2️⃣ Backend Setup
+```bash
+cd backend
+pip install -r requirements.txt
+```
 
+### 3️⃣ Frontend Setup
+```bash
+cd frontend
+npm install
+```
+
+### 4️⃣ Add Environment Variables
+Create a `.env` file in both **frontend** & **backend** folders:
+```env
+OPENAI_API_KEY=your_api_key
+PINECONE_API_KEY=your_api_key
+AWS_ACCESS_KEY_ID=your_access_key
+AWS_SECRET_ACCESS_KEY=your_secret_key
+```
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributing
+We welcome contributions!
+
+1. Fork the project  
+2. Create a new branch (`git checkout -b feature-xyz`)  
+3. Commit your changes (`git commit -m 'Add some feature'`)  
+4. Push to the branch (`git push origin feature-xyz`)  
+5. Open a Pull Request
+
+---
+
+## 📬 Contact
+**Deepanshi Jain**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/deepanshii-jain-683b24249/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange.svg)](https://deepanshiijainportfolio.netlify.app/)  
+📧 jaindeepanshi3103@gmail.com
+
+---
+
+⭐ **If you like this project, give it a star on GitHub!**
