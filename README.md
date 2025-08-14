@@ -2,8 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow.svg)
-![React](https://img.shields.io/badge/Frontend-React.js-61DAFB.svg)
-![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC.svg)
+
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -73,4 +72,5 @@ It combines **Resume Analyzer, Career Chatbot, AI Resume Enhancer, Career Timeli
 ```bash
 git clone https://github.com/your-username/ProPathAI.git
 cd ProPathAI
+
 
