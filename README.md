@@ -48,7 +48,7 @@ It combines **Resume Analyzer, Career Chatbot, AI Resume Enhancer, Career Timeli
 - AI-generated career mentor personas  
 - Industry-specific guidance  
 
-### **📊 Recruiter & Hiring Tools (Easecruit Integration)**
+### **📊 Recruiter & Hiring Tools **
 - Resume parsing & candidate scoring  
 - Fraud detection for candidate profiles  
 - ATS-style candidate tracking  
@@ -73,3 +73,4 @@ It combines **Resume Analyzer, Career Chatbot, AI Resume Enhancer, Career Timeli
 ```bash
 git clone https://github.com/your-username/ProPathAI.git
 cd ProPathAI
+
